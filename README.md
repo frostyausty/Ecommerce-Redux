@@ -2,7 +2,7 @@
 
 ## Description
 
-This repo contains an ecommerce website that uses Redux to manage global state instead of React's Context API. This application was built using the MERN stack and utilizes IndexedDB to store product and category data so users can continue to shop if they have poor connection. The Stripe Node.js library was incorperated to handle payments. Try it out at the deployed link below. 
+This repo contains an ecommerce website that uses Redux to manage global state instead of React's Context API. The application was built using the MERN stack and utilizes IndexedDB to store product and category data so users can continue to shop if they have poor connection. The Stripe Node.js library was incorperated to handle payments. Try it out at the deployed link below! 
 
 
 ## Built with
