@@ -1,1 +1,1 @@
-# shop-shop
+# Ecommerce with Redux (shop-shop refactor)
